@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-## Add fn `clean` to Smartcontract
+## Add fn `clean` to Smartcontract & Deploy again
 ```rust
 use near_sdk::json_types::Base64VecU8;
 #[near_bindgen]
