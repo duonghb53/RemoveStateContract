@@ -1,0 +1,7 @@
+{
+  "name": "RemoveStateContract",
+  "version": "1.0.0",
+  "dependencies": {
+    "near-api-js": "^0.45.1"
+  }
+}
